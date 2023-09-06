@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cOfUUymrVcjEkvIqFJKlUvfVxwpy2fH1MskE43hLZwYkzMnkM/uzVFynSyM4hpifT1PP1YgZ/tFwy3BFcYAD3w==",
+  "dgSpecHash": "e6tY6+D1zPyKj0gOkT4fr4d0PR8V/S/kmSPQmJhs+IsdWPtIGrdoxuKin/fRxg3/c6HZDaHTCDi7gHdSNdI/mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kuba\\Desktop\\ProjektPojistovna\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+  "projectFilePath": "C:\\Users\\Kuba\\Desktop\\Pojistovna\\Pojistovna\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kuba\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kuba\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

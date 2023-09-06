@@ -59,6 +59,9 @@ namespace WebApplication8.Controllers
         // POST: Assurances/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+
+        // Vada, kterou bych rád vyřešil
+        // Když odešlu špatně vyplněný formulář, vrátí se mi pohled, kde jsou všechny ViewBag kolekce nastavené na hodnotu NULL
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Type,Amount,Payment")] Assurance assurance)
